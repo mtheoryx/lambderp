@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `LambDerp`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `David Poindexter`,
+      summary: `who mocks "serverless".`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `An example dev to prod RobertTables live stream demo`,
+    siteUrl: `https://lambderp.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `drpoindexter`,
     },
   },
   plugins: [
